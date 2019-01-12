@@ -35,3 +35,26 @@ button{
     font-size: 1em;
     border-radius:20px;
 }
+
+
+a{
+    text-decoration:underline;
+    color: inherit;
+}
+
+a:link{
+    
+}
+a:hover, a:active{
+    
+}
+
+button:hover{
+    color: white;
+    background-color:orangered;
+}
+
+i:hover{
+    color: darkorange;
+    animation:backdrop;
+}
